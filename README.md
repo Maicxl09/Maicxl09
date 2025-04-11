@@ -12,7 +12,7 @@
 - :people_hugging: Poseo un `buen trabajo en equipo` y `empatía` hacia mis compañeros de trabajo.
 <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Redes sociales
 <p align="center">
 	<a href="https://www.instagram.com/maicxl_09?igsh=bXl1bmsyYWg3cHl1"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	
